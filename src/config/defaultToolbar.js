@@ -42,7 +42,8 @@ export default {
     "emoji",
     "image",
     "remove",
-    "history"
+    "history",
+    "table"
   ],
   inline: {
     inDropdown: false,
